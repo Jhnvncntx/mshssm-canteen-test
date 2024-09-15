@@ -1,5 +1,7 @@
 //CUSTOMERS LOGIN
 
+localStorage.removeItem('loggedInUser')
+
 const identifiedCustomers = {
     'Adolfo': '122679120002',
     'Lopez': '104636120020',
